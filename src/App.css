@@ -47,21 +47,21 @@
   }
 
   .pokemon button.previous {
-    background-color: #f44336;
+    background-color: #5a2274;
     color: white;
   }
 
   .pokemon button.previous:hover {
-    background-color: #e5392f;
+    background-color: #5a2274;
   }
 
   .pokemon button.next {
-    background-color: #4CAF50;
+    background-color: #5a2258;
     color: white;
   }
 
   .pokemon button.next:hover {
-    background-color: #3e8e41;
+    background-color: #5a2258;
   }
 
   @media (max-width: 768px) {
